@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1641859903 source:c:\users\emir softic\onedrive\desktop\spia projekat1\projekat_1_emir_softic\imenik.cpp
+	"Imenik.h"
+	<iostream>
+	<string>
+	<vector>
+
+1641860559 source:c:\users\emir softic\onedrive\desktop\spia projekat1\projekat_1_emir_softic\main.cpp
+	"Imenik.h"
+	<string>
+	<iostream>
+
+1641859390 c:\users\emir softic\onedrive\desktop\spia projekat1\projekat_1_emir_softic\imenik.h
+	<iostream>
+	<string>
+	<vector>
+
+1641859903 source:c:\users\emir softic\onedrive\desktop\emir softic projekat1\projekat_1_emir_softic\imenik.cpp
+	"Imenik.h"
+	<iostream>
+	<string>
+	<vector>
+
+1641859390 c:\users\emir softic\onedrive\desktop\emir softic projekat1\projekat_1_emir_softic\imenik.h
+	<iostream>
+	<string>
+	<vector>
+
+1641860559 source:c:\users\emir softic\onedrive\desktop\emir softic projekat1\projekat_1_emir_softic\main.cpp
+	"Imenik.h"
+	<string>
+	<iostream>
+
