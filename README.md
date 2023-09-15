@@ -1,4 +1,5 @@
 Imenik - Phonebook Management System.
+
 Imenik is a robust C++ implementation of a phonebook management system. This project aims to develop a strong understanding of data structures and their application in real-world scenarios. The Phonebook class is designed as a doubly-linked list, with each node containing a Contact structure.
 
 Key Features
